@@ -1,0 +1,237 @@
+ 
+ 
+程序运行结果：
+
+ ---------------------- 测试深拷贝 ----------------------
+------------------------- SportClub info begin -------------------------
+interest: Running
+coach: Coach Li
+----------- Person ----------
+id: 123
+name: Jack
+----------- Student ----------
+id: 121
+name: Yes
+schoolName: SYSU
+discountRate: 0.2
+----------- Student ----------
+id: 122
+name: Sam
+schoolName: SYSU
+discountRate: 0.8
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: Guangzhou
+activity: play running games
+-------------- Person info ---------------
+----------- Person ----------
+id: 124
+name: Jacy
+
+
+------------------------- SportClub info end -------------------------
+
+
+
+ ============================= 添加三个Club对象进去 =============================
+ ============================= 调用traverse() =============================
+------------------------- SportClub info begin -------------------------
+interest: Running
+coach: Coach Li
+----------- Person ----------
+id: 123
+name: Jack
+----------- Student ----------
+id: 122
+name: Sam
+schoolName: SYSU
+discountRate: 0.8
+----------- Student ----------
+id: 121
+name: Yes
+schoolName: SYSU
+discountRate: 0.2
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: Guangzhou
+activity: play running games
+-------------- Person info ---------------
+----------- Person ----------
+id: 124
+name: Jacy
+
+
+------------------------- SportClub info end -------------------------
+------------------------- SportClub info begin -------------------------
+interest: Swimming
+coach: Coach Wang
+----------- Student ----------
+id: 120
+name: Mendy
+schoolName: SYSU
+discountRate: 0.2
+----------- Student ----------
+id: 129
+name: Lucy
+schoolName: SYSU
+discountRate: 0.77
+----------- Person ----------
+id: 123
+name: Jack
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: BeiJing
+activity: play swimming games
+-------------- Person info ---------------
+----------- Person ----------
+id: 134
+name: Cat
+
+
+------------------------- SportClub info end -------------------------
+------------------------- MusicClub info begin -------------------------
+instrument: Piano
+----------- Student ----------
+id: 139
+name: Cindy
+schoolName: SYSU
+discountRate: 0.69
+----------- Person ----------
+id: 131
+name: Judy
+----------- Student ----------
+id: 140
+name: Zoo
+schoolName: SYSU
+discountRate: 0.88
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: BeiJing
+activity: play Piano
+-------------- Person info ---------------
+----------- Person ----------
+id: 131
+name: Judy
+
+
+------------------------- MusicClub info end -------------------------
+ =============================== 新增一个Club对象 ===============================
+ ============================= 调用traverse() =============================
+------------------------- SportClub info begin -------------------------
+interest: Running
+coach: Coach Li
+----------- Person ----------
+id: 123
+name: Jack
+----------- Student ----------
+id: 122
+name: Sam
+schoolName: SYSU
+discountRate: 0.8
+----------- Student ----------
+id: 121
+name: Yes
+schoolName: SYSU
+discountRate: 0.2
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: Guangzhou
+activity: play running games
+-------------- Person info ---------------
+----------- Person ----------
+id: 124
+name: Jacy
+
+
+------------------------- SportClub info end -------------------------
+------------------------- SportClub info begin -------------------------
+interest: Swimming
+coach: Coach Wang
+----------- Student ----------
+id: 120
+name: Mendy
+schoolName: SYSU
+discountRate: 0.2
+----------- Student ----------
+id: 129
+name: Lucy
+schoolName: SYSU
+discountRate: 0.77
+----------- Person ----------
+id: 123
+name: Jack
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: BeiJing
+activity: play swimming games
+-------------- Person info ---------------
+----------- Person ----------
+id: 134
+name: Cat
+
+
+------------------------- SportClub info end -------------------------
+------------------------- MusicClub info begin -------------------------
+instrument: Piano
+----------- Student ----------
+id: 139
+name: Cindy
+schoolName: SYSU
+discountRate: 0.69
+----------- Person ----------
+id: 131
+name: Judy
+----------- Student ----------
+id: 140
+name: Zoo
+schoolName: SYSU
+discountRate: 0.88
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: BeiJing
+activity: play Piano
+-------------- Person info ---------------
+----------- Person ----------
+id: 131
+name: Judy
+
+
+------------------------- MusicClub info end -------------------------
+------------------------- MusicClub info begin -------------------------
+instrument: Violine
+----------- Person ----------
+id: 151
+name: Oran
+----------- Student ----------
+id: 156
+name: Kindy
+schoolName: SYSU
+discountRate: 0.66
+----------- Student ----------
+id: 154
+name: Zoody
+schoolName: SYSU
+discountRate: 0.58
+------------------ Activity info -------------------
+Date: 2022/1/1
+
+place: Shanghai
+activity: play Violine
+-------------- Person info ---------------
+----------- Person ----------
+id: 151
+name: Oran
+
+
+------------------------- MusicClub info end -------------------------
+
+E:\SYSU\2022第一学期\C++程序设计\期末大作业\理论课题1\Debug\理论课题1.exe (进程 28848)已退出，代码为 0。
+要在调试停止时自动关闭控制台，请启用“工具”->“选项”->“调试”->“调试停止时自动关闭控制台”。
+按任意键关闭此窗口. . .
